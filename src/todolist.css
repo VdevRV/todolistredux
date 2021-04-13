@@ -1,0 +1,11 @@
+h1{
+    color: cornflowerblue;
+}
+.to-do-list-main{
+    margin-left: 35%;
+}
+
+table{
+    border: 1px solid black;
+    width: 250px
+  }
